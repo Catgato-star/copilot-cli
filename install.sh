@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -e
 
+
+
 # GitHub Copilot CLI Installation Script
 # Usage: curl -fsSL https://gh.io/copilot-install | bash
 #    or: wget -qO- https://gh.io/copilot-install | bash
